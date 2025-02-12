@@ -26,7 +26,7 @@
     padding: 0 20px;
     border: 1px solid #ccc;
     outline: none;
-    color: #fff;
+    color: #ccc;
     background: transparent;
 }
 button{
@@ -47,8 +47,9 @@ button img{
 #mesaage{
     position: absolute;
     bottom: -30px;
-    color: #fff;
+    color: #ccc;
     font-size: 15px;
+    display: none ;
 }
 ::placeholder{
     font-size: 15px;
